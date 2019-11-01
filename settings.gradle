@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Latih7_grafik_klasik'
