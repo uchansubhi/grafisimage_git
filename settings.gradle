@@ -1,6 +1,10 @@
 include ':app'
 <<<<<<< HEAD
+<<<<<<< HEAD
 rootProject.name='Latih7_grafik_klasik'
 =======
 rootProject.name='SOAL7_1'
 >>>>>>> SOAL7_1
+=======
+rootProject.name='SOAL7_2'
+>>>>>>> SOAL7_2
